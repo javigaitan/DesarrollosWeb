@@ -146,7 +146,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+			
 		}
 
 	strong, b {
@@ -2978,6 +2978,7 @@ input, select, textarea {
 }
 .btn-wsp:hover{
     background: green;
+
 }
 @media only screen and (min-width:320px) and (max-width:768px){
     .btn-wsp{
